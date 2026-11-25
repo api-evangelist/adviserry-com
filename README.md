@@ -66,7 +66,7 @@
 
 Adviserry offers an AI‑powered advisory panel that turns the experts you follow into actionable insights. By aggregating newsletters, YouTube transcripts, and other expert content, Adviserry reads and summarizes the information, weighs it against your projects, and drafts weekly recommended actions. The service provides a free 14‑day trial and aims to help users make informed decisions without manual research.
 
-**Areas:** AI · Advisory · Newsletter · KnowledgeBase · Productivity · Automation
+**Areas:** Artificial Intelligence · Advisory · Newsletters · Knowledge Base · Productivity · Automation
 
 ## Adviserry on APIs.io
 
@@ -80,30 +80,36 @@ Everything profiled for Adviserry is published on APIs.io rather than in this re
 
 Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [adviserry-com-mcp.yml](https://apis.io/servers/adviserry-com/adviserry-com-mcp-yml/)
+
 #### Security (2)
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Adviserry Com Authentication](https://apis.io/security/adviserry-com/adviserry-com-authentication/)
-- [Adviserry Com Domain Security](https://apis.io/security/adviserry-com/adviserry-com-domain-security/)
+- [Adviserry Authentication](https://apis.io/security/adviserry-com/adviserry-com-authentication/)
+- [Adviserry Domain Security](https://apis.io/security/adviserry-com/adviserry-com-domain-security/)
 
 #### OAuth scopes (1)
 
 The permissions the API asks for.
 
-- [Adviserry Com Scopes](https://apis.io/scopes/adviserry-com/adviserry-com-scopes/)
+- [Adviserry Scopes](https://apis.io/scopes/adviserry-com/adviserry-com-scopes/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [Adviserry Com Plans Pricing](https://apis.io/plans/adviserry-com/adviserry-com-plans-pricing/)
+- [Adviserry Plans Pricing](https://apis.io/plans/adviserry-com/adviserry-com-plans-pricing/)
 
 #### Rate limits (1)
 
 Published request limits.
 
-- [Adviserry Com Rate Limits](https://apis.io/rate-limits/adviserry-com/adviserry-com-rate-limits/)
+- [Adviserry Rate Limits](https://apis.io/rate-limits/adviserry-com/adviserry-com-rate-limits/)
 
 ## Where to find this API
 
@@ -118,16 +124,16 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 28.5** — thin · rubric 0.26.0 · scored 2026-10-31
+**Kin Score 28.6** — thin · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 65.0 |
+| Discoverability | 71.7 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
-| Operational transparency | 18.9 |
+| Operational transparency | 19.0 |
 | Developer ergonomics | 28.6 |
-| Access clarity | 62.6 |
+| Access clarity | 63.8 |
 
 **Agent readiness 16.4** — agent-aware
 
@@ -155,8 +161,11 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 23.6** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 18.2** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/adviserry-com/](https://apis.io/providers/adviserry-com/).
 
